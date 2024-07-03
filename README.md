@@ -1,1 +1,1 @@
-# synergy
+# workup-synergy
